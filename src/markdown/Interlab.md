@@ -48,7 +48,7 @@ Four replicates were used, each with Milli-Q water as a blank. This calibration 
 
 The first attempt was conducted using the Molecular Devices Model F5 reader. The results are shown in figure 1.
 
-[Insert figure 1] 
+![Figure 1](http://2018.igem.org/wiki/images/1/16/T--Waterloo-Interlab-Fig1.png.zip)
 
 Fig. 1. Raw absorbance results of calibration #1 attempt #1.
 
