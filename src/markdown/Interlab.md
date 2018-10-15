@@ -127,7 +127,7 @@ This protocol investigated the relationship between absorbance and colony-formin
 
 The cultures were diluted further and spread onto LB agar + Cm plates, giving final dilution factors of 8x10^4, 8x10^5, and 8x10^6. The plates were incubated overnight and the colonies counted. This allowed calculation of CFUs per mL of Abs600 = 0.024 sample.
 
-[Insert figure 10]
+![Insert figure 10](http://parts.igem.org/wiki/images/3/30/T--Waterloo--Waterloo--Interlab_Fig10.png) 
 
 These data are relatively poor because of the very large error bars. These error bars are especially large for 8x10^6. This can be attributed to the very low colony counts on these plates, which were as low as 1 or 0 for some plates. Results drawn from such low colony counts are not statistically sound. 8x10^4 and 8x10^5 produced poor data for similar reasons, but the error is less extreme. However, some general conclusions may be drawn. 
 
