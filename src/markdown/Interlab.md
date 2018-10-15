@@ -54,7 +54,7 @@ Fig. 1. Raw absorbance results of calibration #1 attempt #1.
 
 Once problems with calibrations #2 and #3 dictated that the BioTek plate reader was going to be used instead of the Molecular Devices Model F5 reader, it was necessary to repeat calibration #1 with the BioTek plate reader for the sake of consistency. Therefore the second attempt at calibration #1 was conducted using the BioTek Synergy 4 plate reader (fig. 2). 
 
-[Insert figure 2] 
+![Figure 2](http://2018.igem.org/wiki/images/1/16/T--Waterloo--Waterloo--Interlab-Fig-2--.png) 
 
 Fig. 2. Raw absorbance results of calibration #1 attempt #2
 
